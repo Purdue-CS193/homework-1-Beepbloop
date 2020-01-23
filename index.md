@@ -1,4 +1,4 @@
-# Yichi "Louis" Liu First CS193 Homework
+# Yichi "Louis" Liu's First CS193 Homework
 ## Favorite things abuot CS193
 - Free GPA
 - 2 class per week
